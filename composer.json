@@ -1,5 +1,5 @@
 {
-    "name": "patrickfischer/safeslackwebhookhandler",
+    "name": "patrickfischer/monolog-slack-safe",
     "description": "A non fatal version of the Monolog SlackWebhookHandler",
     "require": {
         "monolog/monolog": "^3.0"
@@ -12,7 +12,7 @@
     "authors": [
         {
             "name": "Patrick Fischer",
-            "email": "mail@patrickfischer.ch"
+            "email": "zero0cool@proton.me"
         }
     ]
 }
