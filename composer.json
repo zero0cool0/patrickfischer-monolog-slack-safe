@@ -1,6 +1,7 @@
 {
     "name": "patrickfischer/monolog-slack-safe",
     "description": "A non fatal version of the Monolog SlackWebhookHandler",
+     "license": "MIT",
     "require": {
         "monolog/monolog": "^3.0"
     },
