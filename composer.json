@@ -1,0 +1,18 @@
+{
+    "name": "patrickfischer/safeslackwebhookhandler",
+    "description": "A non fatal version of the Monolog SlackWebhookHandler",
+    "require": {
+        "monolog/monolog": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PatrickFischer\\Monolog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Patrick Fischer",
+            "email": "mail@patrickfischer.ch"
+        }
+    ]
+}
